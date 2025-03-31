@@ -1,6 +1,8 @@
-#Welcome
+#Hi...This is Paramita
 
-Tomorrow is the starting of the Python course
+This is the first time I am trying to make my own website
 
-#What to do?
-I don't know.
+#I am a postdoctoral research fellow at the Molecular Chemistry & Materials Science department
+
+
+
