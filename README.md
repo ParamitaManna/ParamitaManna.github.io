@@ -6,7 +6,4 @@
 
 * I am here to learn Python coding and see how I can use it for my research purposes, mainly for image analysis and plotting graphs
 
-## Windows
-
-[hello](./hello.md)
 
