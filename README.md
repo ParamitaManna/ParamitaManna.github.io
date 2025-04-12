@@ -1,5 +1,5 @@
 # Hello
-This is Paramita
+# This is Paramita
 
 * I am a postdoctoral research fellow at the Molecular Chemistry & Materials Science Department
 
