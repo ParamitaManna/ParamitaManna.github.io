@@ -6,10 +6,10 @@
 * I am a postdoctoral research fellow at [Prof. Jacob Klein's lab](https://www.weizmann.ac.il/MCMS/klein/) at the Molecular Chemistry & Materials Science Department of Weizmann Institute of Science.
 
 ## Education
-* B.Sc. in Chemistry (Hons.) with Physics and Mathematics, [Jadavpur University](https://jadavpuruniversity.in/), Kolkata, India
-* M.Sc. in Analytical Chemistry, [Jadavpur University](https://jadavpuruniversity.in/), Kolkata, India
 * Ph.D. in the Department of Desalination and Water Treatment, [Ben-Gurion University of the Negev](https://www.bgu.ac.il/en/), Israel
   - __Thesis title__: Stepwise fabrication of polymeric barrier films of membranes for rational design of morphology and separation properties
+* M.Sc. in Analytical Chemistry, [Jadavpur University](https://jadavpuruniversity.in/), Kolkata, India
+* B.Sc. in Chemistry (Hons.) with Physics and Mathematics, [Jadavpur University](https://jadavpuruniversity.in/), Kolkata, India
 
 ## Research Experience
 - __Postdoctoral Research Fellow__, Weizmann Institute of Science, Rehovot, Israel.
