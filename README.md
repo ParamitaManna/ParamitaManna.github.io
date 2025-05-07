@@ -1,4 +1,4 @@
-# Paramita Manna                 
+             
 <img src="me.JPG" align="right" width="150px" style="border-radius:10%;">
 
 
