@@ -13,20 +13,18 @@
 
 ## Research Experience
 - __Postdoctoral Research Fellow__, Weizmann Institute of Science, Rehovot, Israel.
-  - Understanding the molecular basis of lubrication of stealth liposomes using Surface Force Balance (SFB).
-   - Investigating peptide–lipid membrane interactions to understand the affinity of peptide-conjugated liposomes towards collagen-coated surfaces and the effect of the presence of the peptide on the lubrication behavior of the liposomes.
-   - Studying the phase separation behavior of mixed lipid systems using AFM, cryo-TEM, and fluorescence imaging.
+  - _Lubrication of stealth liposomes using Surface Force Balance; Peptide–lipid interactions; Phase separation of mixed lipid systems using AFM_
   
 - __Ph.D. Thesis__, Ben-Gurion University of the Negev, Sde Boker, Israel.
-  - Stepwise synthesis of ultrathin oligomeric barrier films on porous polymer membranes to control their properties and performances, investigating the effect of the number of synthesis cycles, and the impact of different support membranes.
-  - Synthesis of polymer membranes with a cross-linked network for organic solvent nanofiltration.
-  - Fabrication of zeolitic imidazole framework (ZIF) based thin-film composite (TFC) membranes for water purification.
+  - _Modifications of membranes by molecular layer-by-layer synthesis of oligomeric films to control membranes' properties for water purification; Effect of different supports on membranes' performances; Organic solvent resistant membranes_ 
+  
 - __Project-Junior Research Fellow__, CSIR-CSMCRI, Gujarat, India.
-  - Modification of thin-film composite (TFC) polymeric membranes for the removal of hazardous pesticides from water.
+  - _Modification of thin-film composite (TFC) polymeric membranes for the removal of hazardous pesticides from water_
 - __Master Dissertation__, Jadavpur University, Kolkata, India.
-  -  __Dissertation title__: Investigation of the kinetics of oxidation of L-cysteine by a μ–oxo diiron (III, III) complex in aqueous acidic media
+  -  ___Dissertation title__: Investigation of the kinetics of oxidation of L-cysteine by a μ–oxo diiron (III, III) complex in aqueous acidic media_
 
 ## Links
-* [Publications](https://scholar.google.com/citations?user=Mv7IT3AAAAAJ&hl=en)
+* [e-mail](paramita.manna@weizmann.ac.il)
 * [LinkedIn profile](linkedin.com/in/paramita-manna-0a88984b)
+* [Publications](https://scholar.google.com/citations?user=Mv7IT3AAAAAJ&hl=en)
 
